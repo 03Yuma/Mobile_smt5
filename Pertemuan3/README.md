@@ -23,3 +23,5 @@ Pada kode diatas memiliki kesalahan yaitu variabel yang tidak konsisten dan juga
 
 ##Langkah 3
 eror terjadi karena terdapat tidak konsistennya variabel, dan adannya break dan continue yang tidak didalam looping
+
+aku gay aku suka rizal
