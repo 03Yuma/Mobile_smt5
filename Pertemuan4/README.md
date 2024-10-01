@@ -41,6 +41,30 @@ terjadi eror karna variabel mahasiswa yangbelum diinisilisasi dan dideklarasi
 ## langkah 5
 terjadi eror karna salah pendefinisian pada record
 
+# Tugas
+
+2.  menerima input dan mengembalikan output sehingga membantu dalam pengorganisasian kode dan reusabilitas
+
+3.  positional parameter = dimana harus diberikan urutan
+
+    Optional parameter = mendefinisikan parameter yang tidak wajib saat memanggil fungsi
+
+4.  dimana, fungsi dapat diperlakukan seperti variabel atau objek lainnya.
+
+5.  Anonymous functions adalah fungsi yang tidak memiliki nama. Anonymous functions digunakan ketika fungsi hanya diperlukan dalam jangka pendek dan sederhana, misalnya sebagai argumen untuk fungsi lain.
+
+6.  Lexical Scope: Merujuk pada aturan di mana variabel dapat diakses berdasarkan posisi kode saat penulisan.
+
+Lexical Closure: Merupakan fungsi yang menyimpan referensi ke variabel dari lingkup luarnya, sehingga variabel-variabel ini tetap tersedia walaupun lingkup luar sudah tidak aktif lagi.
+
+7.  Untuk mengembalikan beberapa nilai dari fungsi, kita bisa menggunakan tuple
+  
+
+
+
+
+
+
 
 
 
