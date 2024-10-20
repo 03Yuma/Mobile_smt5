@@ -1,5 +1,5 @@
 #Praktikum 1
-![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/w6_p1.png?raw=true)
+![alt text](layout_flutter/layout_flutter/images/w6_p1.png)
 #Praktikum 2
 ![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/w6_p2.png?raw=true)
 #Praktikum 3
