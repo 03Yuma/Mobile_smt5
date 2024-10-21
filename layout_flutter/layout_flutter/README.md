@@ -8,7 +8,7 @@
 ![alt text](https://github.com/03Yuma/Mobile_smt5/blob/main/layout_flutter/layout_flutter/images/w6_p4.png)
 
 # Tugas Praktikum 1
-
+![alt text](https://github.com/03Yuma/Mobile_smt5/blob/main/layout_flutter/layout_flutter/images/w6_T1.png)
 # Praktikum 5
-
+![alt text](https://github.com/03Yuma/Mobile_smt5/blob/main/layout_flutter/layout_flutter/images/w6_p5.png)
 # Tugas Praktikum 2
